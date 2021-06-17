@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
-[![MCSF's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsfsoft]&layout=compact&hide_border=true&langs_count=10)
+![MCSF's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsfsoft&layout=compact&hide_border=true&langs_count=10)
 
 
