@@ -1,6 +1,6 @@
-### Hi there 👋
+###  Hi!    👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcsfsoft&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+ 
 **mcsfsoft/mcsfsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![MCSF's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsfsoft GitHub ID&layout=compact&hide_border=true&langs_count=10)
+ 
+[![MCSF's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsfsoft]&layout=compact&hide_border=true&langs_count=10)
 
 
