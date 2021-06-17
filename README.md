@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.githubassets.com/images/mona-whisper.gif
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcsfsoft)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mcsfsoft/mcsfsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
